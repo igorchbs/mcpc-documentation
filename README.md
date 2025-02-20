@@ -3,4 +3,5 @@
 ***Probably, It will update in future***<br/>
 ***IT IS NOT POSSIBLE TO DOWNLOAD THE GAME YET BECAUSE I HAVE NOT ARCHIVED EVERYTHING***<br/>
 <a href="https://www.youtube.com/@igorchbs">My Youtube Channel</a><br/>
-<a href="https://t.me/mcpcargdoc">Telegramm Channel of ARG</a>
+<a href="https://t.me/mcpcargdoc">Telegramm Channel of ARG</a><br/>
+<a href="https://igorchbs.github.io/mcpc-documentation/minecraftpcedition/index.html">Main Web Site</a>
